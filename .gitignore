@@ -1,0 +1,9 @@
+# swap
+*.sw?
+
+# python
+venv
+
+# dir
+build/*
+!/build/static/
