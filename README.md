@@ -1,4 +1,4 @@
-# Pycogram
+# Pycowrite
 
 Very *very* small site generator (less than 50 LOC).
 
@@ -13,14 +13,14 @@ Create markdown files and let it convert it to html. It does nothing more than t
 + Install requirements `pip install -r requirements.txt`
 + Create markdown files inside `posts` directory
 + Throw static files (css, js, pics) anywhere in the `build` dir
-+ Run `python pycogram.py`
++ Run `python pycowrite.py`
 + Serve the static files in `build`
 
 ## Netlify:
 
 **Basic build settings**
 
-+ Build command: `python pycogram.py`
++ Build command: `python pycowrite.py`
 + Publish directory: `build`
 
 ## Credits:
