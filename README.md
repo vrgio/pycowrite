@@ -13,6 +13,7 @@ Create markdown files and let it convert it to html. It does nothing more than t
 + Install requirements `pip install -r requirements.txt`
 + Create markdown files inside `posts` directory
 + Throw static files (css, js, pics) anywhere in the `build` dir
++ Optionally edit templates in `tpl` directory
 + Run `python pycowrite.py`
 + Serve the static files in `build`
 
