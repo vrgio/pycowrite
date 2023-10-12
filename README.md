@@ -15,7 +15,7 @@ Create markdown files and let it convert it to html. It does nothing more than t
 + Throw static files (css, js, pics) anywhere in the `build` dir
 + Optionally edit templates in `tpl` directory
 + Run `python pycowrite.py`
-+ Serve the static files in `build`
++ Generated static site is in `build` directory
 
 ## Netlify:
 
